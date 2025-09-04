@@ -29,6 +29,14 @@
 ## Já fiz dois cursos a parte no SENAI o AWS computação em nuvem e o Pyhton no Raspberry, que me fizeram desenvolver as minhas habilidades 🖥🖱
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/21f63104-60b8-45b5-be69-bf05b8e6eacf" /> <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/4a8adbb3-0a76-49cd-a7fe-b31855bf7669" />
 
+## Algumas das minhas principais certificações
+## - Certificado_Competência Transversal - Segurança no Trabalh.pdf
+## - Certificado_Implantação de Serviços em Nuvem - Microsoft AZ-900
+## - Certificado_FLUÊNCIA - FUNDAMENTOS DA INTELIGÊNCIA ARTIFICIA
+## - Certificado_Implantação de Serviços em Nuvem - AWS Cloud Practitioner Foundational
+## - Certificado_Fundamentos do Python 1
+
+
 ## Estou em busca de um emprego para conseguir utilizar de todo meu conhecimento para ajudar a quem for necessario e conseguir realizar meus sonhos, continuar estudando em uma faculdade futuramente, dar uma boa qualidade de vida para minha familia, conquistar minha casa, meu carro e aproveitar bastante a vida 🎓💼👨‍👩‍👦🏡🚗❤️
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/723135eb-cfb9-4f62-b2f0-04a597869593" />
 

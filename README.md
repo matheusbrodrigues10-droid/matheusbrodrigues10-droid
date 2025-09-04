@@ -30,11 +30,14 @@
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/21f63104-60b8-45b5-be69-bf05b8e6eacf" /> <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/4a8adbb3-0a76-49cd-a7fe-b31855bf7669" />
 
 ## Algumas das minhas principais certificações
-## - Certificado_Competência Transversal - Segurança no Trabalh.pdf
+## - Certificado_Competência Transversal - Segurança no Trabalho
 ## - Certificado_Implantação de Serviços em Nuvem - Microsoft AZ-900
 ## - Certificado_FLUÊNCIA - FUNDAMENTOS DA INTELIGÊNCIA ARTIFICIA
 ## - Certificado_Implantação de Serviços em Nuvem - AWS Cloud Practitioner Foundational
 ## - Certificado_Fundamentos do Python 1
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e973f1b0-689b-4c80-9a03-4f8be9d54f5d" />
+
 
 
 ## Estou em busca de um emprego para conseguir utilizar de todo meu conhecimento para ajudar a quem for necessario e conseguir realizar meus sonhos, continuar estudando em uma faculdade futuramente, dar uma boa qualidade de vida para minha familia, conquistar minha casa, meu carro e aproveitar bastante a vida 🎓💼👨‍👩‍👦🏡🚗❤️

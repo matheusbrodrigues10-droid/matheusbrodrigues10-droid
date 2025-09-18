@@ -39,7 +39,7 @@
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e973f1b0-689b-4c80-9a03-4f8be9d54f5d" />
 
 ## Meus Projetos:
-## [CiberGuardioes S.A.pdf](./CiberGuardioes%20S.A.pdf)
+## [CiberGuardioesS.A.pdf](./CG.pdf)
 ## [EcoSapiensTech.pdf](./EcoSapiensTech.pdf)
 
 ## Estou em busca de um emprego para conseguir utilizar de todo meu conhecimento para ajudar a quem for necessario e conseguir realizar meus sonhos, continuar estudando em uma faculdade futuramente, dar uma boa qualidade de vida para minha familia, conquistar minha casa, meu carro e aproveitar bastante a vida 🎓💼👨‍👩‍👦🏡🚗❤️

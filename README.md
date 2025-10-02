@@ -19,7 +19,7 @@
 ## - Consigo configurar redes basicas como o ip, mascara de rede, LAN, *gateway* e DNS
 ## - Tambem tenho a haptidão para desmontar e montar um computador basico encaixando as peças e colocando para funcionar
 ## - Alem de tudo isso tamebm configuro uma maquina virtual na nuvem para executar instancias basicas
-## - Ingles nivel basico/intermediario consigo ter conversas basicas do dia a dia
+## - Ingles nivel basico consigo me virar em algumas situações
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/10a9fdef-7b98-4c74-a237-0dfb39f068c5" /> <img width="340" height="240" alt="image" src="https://github.com/user-attachments/assets/8e98b1e9-cdc1-464e-863d-4c3d3a173387" /> <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/27defb06-7095-40fb-9dff-79a1a745808f" />
 
 
